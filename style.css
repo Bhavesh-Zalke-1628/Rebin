@@ -19,13 +19,11 @@ body {
 #back {
     height: 100vh;
     width: 100%;
-    background-color: red;
 }
 
 #top {
     height: 100vh;
     width: 100%;
-    background-color: #534f4f69;
     position: absolute;
     top: 0;
     left: 0;
@@ -36,7 +34,8 @@ body {
     width: 80%;
     height: 100vh;
     max-width: 1920px;
-    /* border: 1px solid green; */
+    position: relative;
+    /* border: 1px solid red; */
 }
 
 #nav {
